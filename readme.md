@@ -12,10 +12,10 @@ $\text{upd-2023年8月4日 19:29:09}:\text{更新：使用指南}$
 
 ##### 运算：
 - 直接调用
-- 调用 `/` `/=` `%` `%=` 时除数或模数为 $0$ 会直接 `RE`。
-- `pow()` 可以直接用，也可以带模数。
-- `pow()` 底数为 $0$ 是会直接 `RE`。
+- 调用 / /= % %= 时除数或模数为 $0$ 会直接 RE。
+- pow() 可以直接用，也可以带模数。
+- pow() 底数为 $0$ 是会直接 RE。
 
 ##### 输入输出：
-- `std::cin` `std::cout` 均可，但是效率不高。
-- 快读快写：`getBigNum()` `putBigNum(const BigNum&)`。
+- std::cin std::cout 均可，但是效率不高。
+- 快读快写：getBigNum() putBigNum(const BigNum&)。
