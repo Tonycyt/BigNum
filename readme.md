@@ -4,10 +4,10 @@ $\text{upd-2023年8月4日 19:29:09}:\text{更新：使用指南}$
 #### 调用方法：  
 ##### 初始化：
 - 无参数构造。
-- 用已有 `BigNum` 构造。
-- 用一个 `deque<int>` 和一个 `int` 构造（`deque<int>` 代表数值，`int` 代表符号：`-1或1`）。
-- 用 `string` 构造。
-- 用一个 `string` 和一个 `int` 构造。
+- 用已有 BigNum 构造。
+- 用一个 deque<int> 和一个 int 构造（deque<int> 代表数值，int 代表符号：-1 或 1）。
+- 用 string 构造。
+- 用一个 string 和一个 int 构造。
 - 用一个任意整形构造。
 
 ##### 运算：
